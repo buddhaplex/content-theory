@@ -6,7 +6,6 @@ modified: 2015-08-08T23:03:07.573882-04:00
 comments: true
 image:
   credit: Zion National Park, St. George, Utah
-  creditlink: http://www.cherylkanenwisher.com/2012_03_01_archive.html
   feature: cairn.jpg
 
 ---
