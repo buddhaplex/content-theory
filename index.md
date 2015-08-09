@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A blog about coding and philosophy."
+tags: [Jekyll, coding, Ruby, Rails, Philosophy]
 image:
   feature: cairn.jpg
 ---
