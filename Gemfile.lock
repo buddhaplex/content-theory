@@ -159,7 +159,7 @@ DEPENDENCIES
   jekyll
   jekyll-sitemap
   json
-  octopress (~> 3.0.0.rc.12)
+  octopress (~> 3.0)
 
 BUNDLED WITH
    1.10.6
