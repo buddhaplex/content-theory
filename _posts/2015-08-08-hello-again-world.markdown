@@ -3,7 +3,7 @@ layout: post
 title: Hello Again, World
 modified:
 categories: _posts
-excerpt: "A blog about my attempt to talk to machines."
+excerpt: "My attempt to talk to machines."
 tags: [code, philosophy, Bertrand Russell]
 image:
   feature: schoolofathens.jpg
