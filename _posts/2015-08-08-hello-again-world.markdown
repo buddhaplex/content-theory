@@ -6,6 +6,7 @@ categories: _posts
 excerpt: "My attempt to talk to machines."
 tags: [code, philosophy, Bertrand Russell]
 image:
+  credit: The School of Athens, Raphael (1483-1520) 
   feature: schoolofathens.jpg
 date: 2015-08-08T23:49:34-04:00
 ---
