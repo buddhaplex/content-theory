@@ -10,7 +10,7 @@ image:
   feature: KrishnaArjuna.jpg
 date: 2015-08-10T21:24:57-04:00
 ---
-I am lucky enough to be working along-side several very good technologists, which is partially why I was inspired to dive more deeply into coding myself. As I started to tell them about the fact that I was going to get my hands dirty with development, they have all said to me at one point or another (without fail): "Get a passion project, and you'll learn a lot faster." This seems to also be a very commonly held belief in the community.
+I am lucky enough to be working along-side several extremely talented technologists, which is partially why I was inspired to dive more deeply into coding myself. As I started to tell them about the fact that I was going to get my hands dirty with development, they have all said to me at one point or another (without fail): "Get a passion project, and you'll learn a lot faster." This seems to also be a very commonly held belief in the community.
 <br /><br />
 So, I've got two.
 
