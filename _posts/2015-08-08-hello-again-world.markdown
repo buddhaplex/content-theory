@@ -4,7 +4,7 @@ title: Hello Again, World
 modified:
 categories: _posts
 excerpt: "My attempt to talk to machines."
-tags: [code, philosophy, Bertrand Russell]
+tags: [Ruby on Rails, Firehose Project, Eric Andrade, code, philosophy, Bertrand Russell]
 image:
   credit: The School of Athens, Raphael (1483-1520)
   feature: schoolofathens.jpg
