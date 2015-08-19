@@ -18,6 +18,8 @@ So, I've got two.
 
 2. My passion projects. Building a couple of applications that will help me do my current job(s) better (which I'll explain as I progress), and one or two apps that I have ideas for that I think may be fun, useful, and possibly make a solid contribution to the world.
 
-I'm doing these all primarily for my own edification and skills development. I'm a guy that has a deep background in integrated communications. I've created a lot of very cool tech with a lot of very talented developers over the course of my career so far, and I've learned a lot about how to design and build these solutions. But as I continue to refine my coding skills, I realize that some of what I learned was done vicariously. Solving the challenges you're pushing through at the level of code is an altogether different challenge. And I'm glad I've taken that up, and look forward to seeing what I can build!
+I'm doing this all primarily for my own edification and skills development. I'm a guy that has a deep background in integrated communications. I've created a lot of very cool tech with a lot of very talented developers over the course of my career so far, and I've learned a lot about how to design and build these solutions. 
+
+But as I continue to refine my coding skills, I realize that some of what I learned was done vicariously, which gave me a partial understanding of what's going on under the hood. But actually coding the solutions is an altogether different challenge. And I'm glad I've taken that up. Let's see what I can build!
 <br /><br />
 For now, back to coding.
