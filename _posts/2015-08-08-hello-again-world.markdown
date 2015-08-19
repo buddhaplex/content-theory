@@ -17,6 +17,5 @@ This blog is the first of many of my personal coding projects to reinforce what 
 <br /><br />
 The topics on this blog will mostly cover technology, and be centered around web design, web application development, and any other interesting related technology I learn about along the way that is worth sharing.
 <br /><br />
-I am also a big fan of philosophy. And to some extent, I see coding as a philosophical pursuit. Not in the purest sense, mind you. No one is going to be able to achieve a more balanced life by developing in Ruby vs. Python.
-<br /><br />
-But as Bertrand Russell once said: "One must care about a world one will not see."
+Content Theory by definition "explains why human needs change over time." 
+As Bertrand Russell once said: "One must care about a world one will not see."
