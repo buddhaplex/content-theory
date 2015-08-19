@@ -16,6 +16,3 @@ I've been honing my coding skills over the past several weeks in a web developme
 This blog is the first of many of my personal coding projects to reinforce what I'm learning about web development, and to showcase the skills I'm bringing to bear in the marketplace. It was built using Jekyll, which is based in Ruby and is a very cool way to serve up static pages on the web.
 <br /><br />
 The topics on this blog will mostly cover technology, and be centered around web design, web application development, and any other interesting related technology I learn about along the way that is worth sharing.
-<br /><br />
-Content Theory by definition "explains why human needs change over time." 
-As Bertrand Russell once said: "One must care about a world one will not see."
