@@ -10,16 +10,16 @@ image:
   feature: KrishnaArjuna.jpg
 date: 2015-08-10T21:24:57-04:00
 ---
-I am lucky enough to be working along-side several extremely talented technologists, which is partially why I was inspired to dive more deeply into coding myself. As I started to tell them about the fact that I was going to get my hands dirty with development, they have all said to me at one point or another (without fail): "Get a passion project, and you'll learn a lot faster." This seems to also be a very commonly held belief in the community.
+I am lucky enough to be working along-side several extremely talented technologists, which is partially what inspired me to dive more deeply into coding myself. As I started to tell them about the fact that I was going to get my hands dirty with development, they have all said to me at one point or another (without fail): "Get a passion project, and you'll learn a lot faster." This seems to also be a very commonly held belief in the community.
 <br /><br />
 So, I've got two.
 
-* This dual-purpose blog. As I've mentioned, I've always been a big fan of philosophy, but I've never become a serious student, per se. But I have bought several books that have gone the way of excellent dust-gatherers, some of which have ultimately been given away. This one book that I still have though, "The History of Western Philosophy" by Bertrand Russell, has survived many a purge (as has my copy of "Ulysses" by James Joyce, but that's another story.)
-<br /><br />
-So, as a personal challenge to myself, I'm committing to read this book--chapter by chapter--and do a post on each that summarizes the material, and is somehow complemented with a parallel lesson or process I'm learning in my coding adventures. It may be that the material of each Western Philosopher from Pythagoras to John Dewey has nothing in common with the concepts, frameworks, languages, or techniques I'm learning. But as a worst case scenario, I will be learning a lot more about coding, and be a hell of a lot more well read on Western philosophy.
+* This blog. I'm committing to chronicling the things I learn as I work on my coding skills. As I build things, I will share them. Even if I think they suck. Because honestly, those things are going to teach me a lot about writing better code, and maybe lead to better ideas over the long haul. And as I get better, and more knowledgeable, I'm hoping that what I learn can be used to help others build great software. Because if there's one thing I know for sure: nothing worth doing is easy, and it's always a lot more fun (and generally successful) when you do it with a team.
 
-* My passion project: A back-office business application built in Ruby on Rails. This is something I've wanted to build for awhile. There have been so many platforms I've used throughout my agency career that have professed to make it easier to run a service business. And most get it wrong by trying to do too many things, and appealing to the broadest spectrum of companies. As a business model, I get it. As a user of these systems, it's a headache.
+* My passion projects:
+
+Building a couple of applications that will help me do my current job(s) better (which I'll explain as I progress), and one or two apps that I have ideas for that I think may be fun, useful, and possibly make a solid contribution to the world.
 <br /><br />
-So I'm going to strip these down and design a web application that I would use to run operations on my own business. And the more I learn about programming, the more I realize it's not a small task. But I know I'll learn a lot about what I can do, and how I can do it. And as I go, I'll share some code snippets and learnings here.
+I'm doing these all primarily for my own edification and skills development. I'm a guy that has a deep background in integrated communications. I've created a lot of very cool tech with a lot of very talented developers over the course of my career so far, and I've learned a lot about how to design and build these solutions. But as I continue to refine my coding skills, I realize that some of what I learned was done vicariously. Solving the challenges you're pushing through at the level of code is an altogether different challenge. And I'm glad I've taken that up, and look forward to seeing what I can build!
 <br /><br />
 For now, back to coding.
