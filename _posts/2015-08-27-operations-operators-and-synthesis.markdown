@@ -16,11 +16,13 @@ But acceptance is the key to getting better. Accepting that you suck, and you do
 
 I've come across some very surprising (and cool) things in my coding experience so far. Like the following:
 
+<code>
 ~~~ ruby
 def unique(integers)
   integers & integers
 end
 ~~~
+</code>
 
 This was a solution to a problem on <a href="http://codewarriors.com">codewarriors.com</a>, and that little ampersand was essentially the solution.
 
@@ -31,10 +33,14 @@ The problem?
 > You are to write a function called unique that takes an array of integers and returns the array with duplicates removed. It must return the values in the same order as first seen in the given array. Thus no sorting should be done [...]
 
 > Assumptions
-* All values given are integers (they can be positive or negative).
-* You are given an array but it may be empty.
-* They (sic) array may have duplicates or it may not.
-* <b>You cannot use the uniq method on Arrays (don't even try it), or the nub function from Data.List.</b> (bolding mine.)
+
+> * All values given are integers (they can be positive or negative).
+
+> * You are given an array but it may be empty.
+
+> * They (sic) array may have duplicates or it may not.
+
+> * <b>You cannot use the uniq method on Arrays (don't even try it), or the nub function from Data.List.</b> (bolding mine.)
 
 My problem? Well, I don't have a problem, per se. I figured it out, eventually.
 
@@ -42,6 +48,7 @@ But...
 
 As a person who has spent the last 10 or so years perfecting the art of approaching operational/strategic/business problems with the intent of relentless due diligence up front and flawless execution, my mind had me scouring the now slightly more familiar landscape of the Ruby on Rails materials I knew. And what I knew of the "&" operator was its use in sets of two to define if/else statements (e.g., the logical AND operator):
 
+<code>
 ~~~ ruby
 def find_integer(array)
   for element in array
@@ -51,6 +58,7 @@ def find_integer(array)
   end
 end
 ~~~
+</code>
 
 And so for a long time I looked in other directions, and started writing code that had more to do with trying to anticipate what kinds of combinations of elements could show up in arrays. I was focusing on making sure the order was maintained. That if one array was empty I'd still need to return the items in the other (as long as there were no duplicates in that one). That I <i>couldn't</i> use <b>uniq</b> (Why not!? I knew that was the answer!)
 
