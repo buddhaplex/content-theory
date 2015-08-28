@@ -3,7 +3,7 @@ layout: post
 title: Operations, Operators & Synthesis
 modified:
 categories:
-excerpt:
+excerpt: Accept that you will not know until you suffer. - Buddha (not)
 tags: [Development, Ruby, Ruby on Rails, Operations, Advertising, Learning]
 image:
   credit: Revelate. Concatenate. The animals we ate. At 98 we all rotate.
@@ -60,4 +60,4 @@ Simple, peaceful: &
 
 The single & operator as used with the Array class in Ruby takes two sets of data, and simply returns the set intersection (read: common elements) of those two sets.
 
-Little revelations like this one happen to me every day, every time I sit down to code. And I'm happy to be challenged. And I'm also glad that I'm getting the opportunity to flip the script I'm so used to reading from, because I'm guessing that over time, I'm going to gain some new perspectives on some things I've become very used to doing, which can only yield better results over time. 
+Little revelations like this one happen to me every day, every time I sit down to code. And I'm happy to be challenged. And I'm also glad that I'm getting the opportunity to flip the script I'm so used to reading from, because I'm guessing that over time, I'm going to gain some new perspectives on some things I've become very used to doing, which can only yield better results over time.
